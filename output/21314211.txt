@@ -1,0 +1,6 @@
+ticket ID: 21314211
+Type: Child
+Movie: LOGAN
+Date: 15:30
+Screen: Screen3
+Row: A Number: 3

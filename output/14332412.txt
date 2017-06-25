@@ -1,0 +1,6 @@
+ticket ID: 14332412
+Type: Child
+Movie: LOGAN
+Date: 18:00
+Screen: Screen3
+Row: A Number: 4

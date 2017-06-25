@@ -1,0 +1,6 @@
+ticket ID: 23141432
+Type: Student
+Movie: MOONLIGHT
+Date: 16:00
+Screen: Screen2
+Row: A Number: 3

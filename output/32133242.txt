@@ -1,0 +1,6 @@
+ticket ID: 32133242
+Type: Student
+Movie: MOONLIGHT
+Date: 16:00
+Screen: Screen2
+Row: A Number: 1

@@ -1,0 +1,6 @@
+ticket ID: 14244421
+Type: Student
+Movie: BEAUTY AND THE BEAST
+Date: 12:30
+Screen: Screen1
+Row: A Number: 1

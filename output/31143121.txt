@@ -1,0 +1,6 @@
+ticket ID: 31143121
+Type: Child
+Movie: LOGAN
+Date: 15:30
+Screen: Screen3
+Row: A Number: 4

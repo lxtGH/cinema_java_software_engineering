@@ -1,0 +1,6 @@
+ticket ID: 24134423
+Type: Child
+Movie: LOGAN
+Date: 15:30
+Screen: Screen3
+Row: B Number: 2

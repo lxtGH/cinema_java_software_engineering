@@ -1,0 +1,6 @@
+ticket ID: 31414121
+Type: Child
+Movie: BEAUTY AND THE BEAST
+Date: 10:30
+Screen: Screen3
+Row: A Number: 1
